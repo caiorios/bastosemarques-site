@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Recuperação Judicial para produtor rual
+title: Recuperação Judicial para produtor rural
 date: 2020-02-20T12:28:11.120Z
 description: >-
   Donec ut dolor lectus. Sed facilisis sapien quis erat iaculis, in commodo
