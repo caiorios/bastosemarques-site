@@ -16,6 +16,10 @@ tags:
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis purus lorem, fringilla in dui ut, dignissim bibendum justo. Nam pulvinar, leo quis malesuada ornare, dui lacus efficitur nisl, ac mattis urna nisi fermentum libero. Vivamus euismod risus hendrerit justo lobortis, ut efficitur risus porta. Pellentesque laoreet augue in magna facilisis, at gravida felis venenatis. Mauris mollis porta nisi a placerat. Maecenas in porttitor erat. Nunc justo eros, volutpat eu orci aliquet, convallis dictum elit. Etiam in justo quam. In hac habitasse platea dictumst. In posuere dignissim lorem vitae volutpat. Aliquam non rhoncus justo, in fringilla purus. Aliquam erat volutpat. In hac habitasse platea dictumst. Nulla facilisis faucibus velit, at imperdiet eros commodo sed.
 
+
+
+![](/img/dog01.jpeg)
+
 Phasellus eu mattis libero. Maecenas scelerisque luctus enim sed tristique. In nec enim quam. Etiam ligula tortor, dapibus eget varius quis, blandit vitae erat. Nulla facilisi. Nulla pretium arcu tortor, vitae suscipit est dictum a. Phasellus iaculis diam ut ex feugiat, et mollis turpis pretium. Pellentesque lobortis sapien nec mi scelerisque ultricies. Proin pharetra molestie ultricies. Nam at lorem venenatis, molestie sapien eget, malesuada eros.
 
 Praesent tempus dapibus enim sit amet porttitor. Suspendisse lorem tellus, sagittis quis pulvinar vel, ornare eu erat. Vestibulum in blandit libero. Vestibulum varius erat vitae odio mollis, id lobortis ligula ultricies. Fusce sed mauris a ex venenatis rutrum. Pellentesque bibendum sem lorem, nec finibus orci faucibus ut. In viverra, ligula nec lobortis condimentum, ante sem rutrum sem, finibus pharetra ex leo eget tortor. Pellentesque diam nisl, consequat in ante mollis, fermentum venenatis eros. Nullam tempus lacus felis, et posuere felis lacinia vel. Morbi non tristique orci.
