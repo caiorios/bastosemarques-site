@@ -143,33 +143,19 @@ const IndexPage = () => {
       <div
         style={{
           color: "white",
-          position: "absolute",
           bottom: 0,
           width: "100%",
           padding: 25,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
         }}
       >
-        <p style={{ fontSize: 42 }}>Estamos em desenvolvimento</p>
+        <img src={logo} />
+        <p style={{ fontSize: 36, fontWeight: 100 }}>Estamos em desenvolvimento</p>
       </div>
     </div>
   );
-
-  // return (
-  //   <div
-  //     style={{
-  //       backgroundColor: "#350503",
-  //       backgroundImage: "url(../img/bem_logo2.jpeg)",
-  //       height: "100%",
-  //       backgroundPosition: "center",
-  //       backgroundRepeat: "no-repeat",
-  //       position: "relative",
-  //     }}
-  //   >
-  //     <p style={{ position: "absolute", color: "white" }}>
-  //       Estamos em desenvolvimento
-  //     </p>
-  //   </div>
-  // );
 };
 
 IndexPage.propTypes = {
