@@ -130,7 +130,7 @@ IndexPageTemplate.propTypes = {
 
 const IndexPage = () => {
   return (
-    <div
+    <Layout
       style={{
         backgroundColor: "#350503",
         backgroundImage: "url(../img/bem_logo2.jpeg)",
@@ -154,7 +154,7 @@ const IndexPage = () => {
         <img src={logo} />
         <p style={{ fontSize: 36, fontWeight: 100 }}>Estamos em desenvolvimento</p>
       </div>
-    </div>
+    </Layout>
   );
 };
 
