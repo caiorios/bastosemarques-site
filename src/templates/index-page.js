@@ -141,6 +141,7 @@ const IndexPage = () => {
         style={{
           color: "white",
           fontSize: 36,
+          textAlign: 'center',
           fontWeight: 100,
           position: "absolute",
           bottom: 30,
