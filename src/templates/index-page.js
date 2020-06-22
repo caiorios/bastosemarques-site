@@ -151,7 +151,7 @@ const IndexPage = () => {
           alignItems: "center",
         }}
       >
-        <img src={logo} />
+        {/* <img src={logo} /> */}
         <p style={{ fontSize: 36, fontWeight: 100 }}>Estamos em desenvolvimento</p>
       </div>
     </Layout>
