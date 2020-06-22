@@ -6,8 +6,6 @@ import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 
-import logo from "../img/bem_logo2.jpeg";
-
 export const IndexPageTemplate = ({
   image,
   title,
@@ -132,28 +130,25 @@ const IndexPage = () => {
   return (
     <Layout
       style={{
-        backgroundColor: "#350503",
-        backgroundImage: "url(../img/bem_logo2.jpeg)",
         height: "100vh",
+        backgroundColor: "#350503",
+        backgroundImage: "url(../img/bem_logo.jpg)",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
-        position: "relative",
       }}
     >
-      <div
+      <p
         style={{
           color: "white",
-          bottom: 0,
+          fontSize: 36,
+          fontWeight: 100,
+          position: "absolute",
+          bottom: 30,
           width: "100%",
-          padding: 25,
-          display: "flex",
-          flexDirection: "column",
-          alignItems: "center",
         }}
       >
-        {/* <img src={logo} /> */}
-        <p style={{ fontSize: 36, fontWeight: 100 }}>Estamos em desenvolvimento</p>
-      </div>
+        Estamos em desenvolvimento
+      </p>
     </Layout>
   );
 };
